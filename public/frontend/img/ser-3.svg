@@ -1,0 +1,26 @@
+ <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512">
+                                        <g>
+                                            <path style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+            M256,68.904c11.785-13.351,29.016-21.77,48.2-21.77c35.467,0,64.267,28.792,64.267,64.267C368.467,175.667,256,223.867,256,223.867
+            s-112.467-48.2-112.467-112.467c0-35.475,28.799-64.267,64.267-64.267C226.984,47.133,244.215,55.552,256,68.904z"></path>
+                                            
+                                                <line style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="448.8" y1="15" x2="416.667" y2="31.067"></line>
+                                            
+                                                <line style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="63.2" y1="15" x2="95.333" y2="31.067"></line>
+                                            
+                                                <line style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="448.8" y1="223.867" x2="416.667" y2="207.8"></line>
+                                            
+                                                <line style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="63.2" y1="223.867" x2="95.333" y2="207.8"></line>
+                                            
+                                                <line style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="464.867" y1="119.433" x2="432.733" y2="119.433"></line>
+                                            
+                                                <line style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="368.467" y1="432.733" x2="336.333" y2="432.733"></line>
+                                            
+                                                <line style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="47.133" y1="119.433" x2="79.267" y2="119.433"></line>
+                                            
+                                                <rect x="79.267" y="352.4" style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" width="353.467" height="144.6"></rect>
+                                            
+                                                <polygon style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+            432.733,288.133 79.267,288.133 15,352.4 497,352.4 	"></polygon>
+                                        </g>
+                                        </svg>
